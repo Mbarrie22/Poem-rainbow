@@ -1,4 +1,4 @@
-# Poem-rainbow
+# Poem-rainbow and unicorn and poines
 My first rainbow poem
 Red
 Orange
@@ -8,3 +8,4 @@ Blue
 Indigo
 Violet
 and a unicorn
+and also ponies guys!
