@@ -1,4 +1,4 @@
-# Poem-rainbow and unicorn and poines
+# Poem-rainbow, unicorn and or poines
 My first rainbow poem
 Red
 Orange
